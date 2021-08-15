@@ -10,7 +10,7 @@ Here's a list of things I currently keep myself busy with:
 <details>
   <summary>Some other facts about me</summary>
   <br>
-  <p><i>Siri play Attention by Charlie Puth 🎶</i><p>
+  <p><i>Siri play Careless Whisper 🎶</i><p>
 
   - 🔭 I’m currently working on something cool :wink:
   - 🌱 I’m currently learning Python, Django, JavaScript and Bootstrap.<!-- - 👯 I’m looking to collaborate on ... -->
