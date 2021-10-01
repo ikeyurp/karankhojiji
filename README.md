@@ -4,7 +4,7 @@ This is the place where I open-source stuff and break things :rofl:. I like expe
 
 Here's a list of things I currently keep myself busy with:
 
-- 🏫   I'm student at Charotar University of Science & Technology completing my Computer Science & Engineering Degree
+- 🏫   I'm student at Charotar University of Science & Technology completing my Computer Engineering Degree
 - ☀️ &nbsp;  Maintaining nothing as of today.
 - 🛠  &nbsp; Trying out [Edx](https://www.edx.org/) and [Coursera](https://www.coursera.org/) in my spare time.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/karankhojiji?tab=repositories)
